@@ -9,7 +9,12 @@
   &nbsp;•&nbsp;
   <a href="./Payment_Analytics_2022.ipynb"><b>📓 Відкрити Jupyter Notebook</b></a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-Analysis-150458" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-orange" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626" alt="Jupyter">
+</p>
 <p align="center">
 
 </p>
